@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RadioButton xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="64px"
+    android:layout_marginBottom="16px"
+    android:layout_marginLeft="10px"
+    android:layout_marginRight="10px"
+    android:layout_marginTop="16px"
+    android:layout_weight="1"
+    android:background="@drawable/selector_search_gv_item_bg"
+    android:button="@null"
+    android:ellipsize="end"
+    android:gravity="center"
+    android:layout_gravity="center"
+    android:paddingLeft="30px"
+    android:paddingRight="30px"
+    android:singleLine="true"
+    android:textColor="@drawable/selector_search_gv_item_tv"
+    android:textSize="28px">
+
+</RadioButton>
